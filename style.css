@@ -1,0 +1,18 @@
+iframe{
+    display: grid;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+a{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
